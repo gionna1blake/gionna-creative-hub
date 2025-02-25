@@ -1,3 +1,3 @@
 document.addEventListener('DOMContentLoaded', function () {
-    console.log('Website loaded!');
+    console.log('Welcome to My Songwriting & Blog!');
 });
