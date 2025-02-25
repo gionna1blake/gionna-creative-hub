@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gionna Blake-melton's Creative Hub</title>
+  <meta name="description" content="Ghost Production, Spoken Word Poetry, and Daily Health & Spirituality insights – Your source for music, creative expression, and holistic wellness.">
+  <style>
+    /* Base Reset & Typography */
+    *, *::before, *::after {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      line-height: 1.6;
+    }
+    a {
+      text-decoration: none;
+      color: inherit;
+    }
+    /* Header */
+    header {
+      background: linear-gradient(135deg, #2b2d42, #8d99ae);
+      color: #fff;
+      text-align: center;
+      padding: 30px 20px;
+    }
+    header h1 {
+      font-size: 2.8rem;
+      margin-bottom: 10px;
+    }
+    header p {
+      font-size: 1.2rem;
+      font-weight: 300;
+    }
+    /* Navigation */
+    nav {
+      background: #2b2d42;
+      padding: 10px 0;
+    }
+    nav ul {
+      display: flex;
+      justify-content: center;
+      list-style: none;
+      flex-wrap: wrap;
+    }
+    nav ul li {
+      margin: 5px 15px;
+    }
+    nav ul li a {
+      color: #fff;
+      font-weight: bold;
+      padding: 8px 12px;
+      border-radius: 4px;
+      transition: background 0.3s;
+    }
+    nav ul li a:hover {
+      background: #8d99ae;
+    }
+    /* Container */
+    .container {
+      max-width: 1200px;
+      margin: 20px auto;
+      background: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.05);
+    }
+    /* Sections */
+    section {
+      margin-bottom: 40px;
+      padding-bottom: 20px;
+      border-bottom: 1px solid #ddd;
+    }
+    section h2 {
+      font-size: 2rem;
+      margin-bottom: 15px;
+      color: #2b2d42;
+    }
+    section p {
+      font-size: 1rem;
+      margin-bottom: 15px;
+    }
+    /* Ad Space Placeholder */
+    .ad-space {
+      background: #eaeaea;
+      border: 2px dashed #bbb;
+      text-align: center;
+      padding: 20px;
+      margin: 20px 0;
+      color: #666;
+      font-style: italic;
+    }
+    /* Contact Form */
+    .contact-info {
+      font-size: 1rem;
+      line-height: 1.8;
+    }
+    .contact-info a {
+      color: #2b2d42;
+    }
+    /* Footer */
+    footer {
+      background: #2b2d42;
+      color: #fff;
+      text-align: center;
+      padding: 15px 20px;
+      font-size: 0.9rem;
+    }
+    /* Responsive */
+    @media (max-width: 768px) {
+      header h1 {
+        font-size: 2.2rem;
+      }
+      nav ul {
+        flex-direction: column;
+      }
+      nav ul li {
+        margin: 5px 0;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Header Section -->
+  <header>
+    <h1>Gionna Blake-melton's Creative Hub</h1>
+    <p>Ghost Production | Spoken Word Poetry | Health & Spirituality</p>
+  </header>
+  
+  <!-- Navigation Menu -->
+  <nav>
+    <ul>
+      <li><a href="#music">Music</a></li>
+      <li><a href="#poetry">Poetry</a></li>
+      <li><a href="#health">Health & Spirituality</a></li>
+      <li><a href="#community">Community</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </nav>
+  
+  <!-- Main Content Container -->
+  <div class="container">
+    <!-- Music & Ghost Production Section -->
+    <section id="music">
+      <h2>Music & Ghost Production</h2>
+      <p>Discover a curated portfolio of ghost-produced tracks and behind-the-scenes insights. Purchase exclusive digital downloads or request custom compositions to elevate your music experience.</p>
+      <!-- Placeholder for Music Portfolio/Audio Player -->
+      <div class="ad-space">[Ad Space: Music Section - High-Paying Ads]</div>
+    </section>
+    
+    <!-- Spoken Word Poetry Section -->
+    <section id="poetry">
+      <h2>Spoken Word Poetry</h2>
+      <p>Experience the power of spoken word through audio, video, and written performances. Discover our "Poetry of the Day" and join live sessions for creative expression.</p>
+      <!-- Placeholder for Poetry Content -->
+      <div class="ad-space">[Ad Space: Poetry Section - Sponsored Content & Affiliate Offers]</div>
+    </section>
+    
+    <!-- Daily Health & Spirituality Section -->
+    <section id="health">
+      <h2>Daily Health & Spirituality</h2>
+      <p>Stay inspired with daily posts on holistic wellness, sea moss benefits, third-eye activation, and meditation practices. Access exclusive guides, courses, and wellness resources.</p>
+      <!-- Placeholder for Health Blog/Resources -->
+      <div class="ad-space">[Ad Space: Health Section - Affiliate Marketing & Native Ads]</div>
+    </section>
+    
+    <!-- Community & Membership Section -->
+    <section id="community">
+      <h2>Community & Membership</h2>
+      <p>Join our interactive community of like-minded creatives. Engage in discussions, access premium content, and participate in exclusive workshops through our paid membership program.</p>
+      <!-- Placeholder for Membership/Forum Integration -->
+      <div class="ad-space">[Ad Space: Community Section]</div>
+    </section>
+    
+    <!-- Contact Section -->
+    <section id="contact">
+      <h2>Contact</h2>
+      <p class="contact-info">For inquiries, collaborations, or custom projects, please get in touch:</p>
+      <p class="contact-info">
+        <strong>Name:</strong> Gionna Blake-melton<br>
+        <strong>Email:</strong> <a href="mailto:gionna.blake@icloud.com">gionna.blake@icloud.com</a><br>
+        <strong>Phone:</strong> 215-931-3222
+      </p>
+    </section>
+  </div>
+  
+  <!-- Footer Section -->
+  <footer>
+    <p>&copy; 2025 Gionna Blake-melton. All Rights Reserved.</p>
+  </footer>
+</body>
+</html>
